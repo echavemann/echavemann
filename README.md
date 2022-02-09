@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @echavemann
-- 👀 I’m interested in webapps and fintech!
-- 🌱 I’m currently learning Multi, Electrical Systems, General CS.
-- 💞️ I’m looking to collaborate on idk anything.
+- 👀 I’m interested in fintech and really anything that seems cool
+- 🌱 I’m currently learning front-end dev tools, hardcore optimization, and uni stuff
+- 💞️ I’m looking to collaborate on really anything
 - 📫 How to reach me - text me ! or email at ethavemann@gmail.com :)
 
 <!---
