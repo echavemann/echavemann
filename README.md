@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @echavemann
-- 👀 I’m interested in fintech and really anything that seems cool
-- 🌱 I’m currently learning front-end dev tools, hardcore optimization, and uni stuff
-- 💞️ I’m looking to collaborate on really anything
+- 👋 Hi, I’m @echavemann !
+- 👀 I’m interested in fintech and really anything that seems cool.
+- 🌱 I’m currently learning dev tools, optimization, and just a lot of things.
+- 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me - text me ! or email at ethavemann@gmail.com :)
 
 <!---
