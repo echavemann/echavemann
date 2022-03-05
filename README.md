@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @echavemann !
 - 👀 I’m interested in fintech and really anything that seems cool.
+- Only slightly only use Webscrapers and APIs...
 - 🌱 I’m currently learning dev tools, optimization, and just a lot of things.
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me - text me ! or email at ethavemann@gmail.com :)
