@@ -8,7 +8,7 @@ Hi, I'm Ethan! I am an Undergrad at Northwestern, and I mainly do personal proje
 <img
   src="https://github-readme-streak-stats.herokuapp.com/?user=echavemann&&theme=react&&hide_border=true"
 />  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=echavemann&layout=compact) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=echavemann&layout=compact&theme=react&hide_border=true) 
 
 
 # 🔧 Technologies & Tools
