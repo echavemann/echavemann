@@ -1,6 +1,6 @@
 Hi, I'm Ethan! I am an Undergrad at Northwestern, and I mainly do personal projects and fintech work. Feel free to reach out to me at echavemann@gmail.com! 
 
-# 📈 Stats
+#Stats
 
 <img
   src="https://github-readme-stats.vercel.app/api?username=echavemann&show_icons=true&theme=react&&hide_border=true"
@@ -11,7 +11,7 @@ Hi, I'm Ethan! I am an Undergrad at Northwestern, and I mainly do personal proje
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=echavemann&layout=compact&theme=react&hide_border=true) 
 
 
-# 🔧 Technologies & Tools
+# Technologies & Tools
 
 <table>
   <tr>
