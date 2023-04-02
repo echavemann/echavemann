@@ -5,9 +5,6 @@ Hi, I'm Ethan! I am an Undergrad at Northwestern.
 # Stats
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=echavemann&show_icons=true&theme=react&&hide_border=true"
-/>
-<img
   src="https://github-readme-streak-stats.herokuapp.com/?user=echavemann&&theme=react&&hide_border=true"
 />  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=echavemann&layout=compact&theme=react&hide_border=true) 
