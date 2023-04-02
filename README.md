@@ -1,4 +1,4 @@
-Hi, I'm Ethan! I am an Undergrad at Northwestern, and I mainly do personal projects and fintech work. Feel free to reach out to me at echavemann@gmail.com! 
+Hi, I'm Ethan! I am an Undergrad at Northwestern.
 
 # Stats
 
