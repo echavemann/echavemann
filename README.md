@@ -4,147 +4,16 @@ Hi, I'm Ethan! I am an Undergrad at Northwestern.
 
 # Stats
 
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=echavemann&&theme=react&&hide_border=true"
-/>  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=echavemann&layout=compact&theme=react&hide_border=true) 
+<img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=echavemann&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=echavemann&&theme=tokyonight&&hide_border=true"/> 
 
 
-# Technologies & Tools
+# Technologies
+### Languages 
+<img src = "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src = "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"> <img src = "https://img.shields.io/badge/OpenJDK-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"> <img src = "https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"> <img src = "https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324">  
 
-<table>
-  <tr>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
-        width="48"
-        height="48"
-        alt="HTML"
-      />
-      <br /><strong>HTML5</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"
-        width="48"
-        height="48"
-        alt="CSS3"
-      />
-      <br /><strong>CSS3</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"
-        width="48"
-        height="48"
-        alt="AWS"
-      />
-      <br /><strong>AWS</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"
-        width="48"
-        height="48"
-        alt="TypeScript"
-      />
-      <br /><strong>TypeScript</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-        width="48"
-        height="48"
-        alt="React"
-      />
-      <br /><strong>React</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-        width="48"
-        height="48"
-        alt="Python"
-      />
-      <br /><strong>Python</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
-        width="48"
-        height="48"
-        alt="C++"
-      />
-      <br /><strong>C++</strong>
-    </td>
-   
-  </tr>
-  <tr>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
-        width="48"
-        height="48"
-        alt="Next.js"
-      />
-      <br /><strong>Next.js</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg"
-        width="48"
-        height="48"
-        alt="Ruby"
-      />
-      <br /><strong>Ruby</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"
-        width="48"
-        height="48"
-        alt="GCP"
-      />
-      <br /><strong>Google Cloud</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"
-        width="48"
-        height="48"
-        alt="R"
-      />
-      <br /><strong>R</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"
-        width="48"
-        height="48"
-        alt="Ubuntu"
-      />
-      <br /><strong>Ubuntu</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"
-        width="48"
-        height="48"
-        alt="Kotlin"
-      />
-      <br /><strong>Kotlin</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
-        width="48"
-        height="48"
-        alt="Firebase"
-      />
-      <br /><strong>Firebase</strong>
-    </td>
-  </tr>
-</table>
+### Tools
+<img src = "https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"> <img src = "https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"><img src = "https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"><img src = "https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"><img src = "https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"><img src = "https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white"><img src = "https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"><img src = "https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
 
 <!---
 echavemann/echavemann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
