@@ -4,7 +4,7 @@ Hi, I'm Ethan! I am an Undergrad at Northwestern.
 
 # Stats
 
-<img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=echavemann&theme=tokyonight"/>
+<img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=echavemann&theme=tokyonight&&hide_border=true"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=echavemann&&theme=tokyonight&&hide_border=true"/> 
 
 
