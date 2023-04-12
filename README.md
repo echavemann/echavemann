@@ -1,6 +1,6 @@
 Hi, I'm Ethan! I am an Undergrad at Northwestern.
 
-<img src="https://profile-counter.glitch.me/{echavemanna}/count.svg" alt="echavemann :: Visitor's Count" />
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fechavemann1212%2Fhit-counter" />
 
 # Stats
 
