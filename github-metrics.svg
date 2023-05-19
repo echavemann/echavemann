@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1995" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2312" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.contributions{margin:0 8px;flex-wrap:wrap}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.contributions{margin:0 8px;flex-wrap:wrap}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value{margin-left:46px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -191,7 +191,7 @@ Northwestern '25.</div>
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    951k added, 415k removed
+                                    921k added, 599k removed
                                 </div>
                             </section>
                             <section>
@@ -305,7 +305,7 @@ Northwestern '25.</div>
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 36 commits)</small>
+                    <small class="h-details">(computed from last 37 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -1346,6 +1346,174 @@ Northwestern '25.</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 157 commits in
+                                        <span class="repo">echavemann/carbon-lang</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">trunk</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#86aecb5</div>
+                                        <div class="message">Rename lower to lowering (#2618)
+
+Also Lower::Make to LowerToLLVM, removing the class for now.
+
+This is per request from chandlerc and zygoloid.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2adaeee</div>
+                                        <div class="message">Add handling for return types. (#2596)
+
+This starts handling return types on functions, and comparing types with `return` statements.
+
+Note, errors remain poor because the type literal is currently associated with a builtin, losing the parse_node that specified it. This means we don't have the original source location to associate with, even though it may be helpful to point at the type in source. We could point at the signature overall, but my leaning is that we wouldn't want that long-term, so TODOs for now and may want to change a little about how the parse node is tracked once things are a little further along.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5d88871</div>
+                                        <div class="message">Fix incorrect use of "overridden", should be "overriding" (#2619)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4b2254a</div>
+                                        <div class="message">Fix some comments after #2612. (#2614)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#530541e</div>
+                                        <div class="message">Add boilerplate framework for lowering. (#2607)
+
+This adds boilerplate for lowering; a `dump llvm-ir` command, a `lower` directory, some files to give basic structure, and a trivial test.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1b662cb</div>
+                                        <div class="message">Remove reference to None.h (#2613)
+
+Reported by a Googler.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#73869e9</div>
+                                        <div class="message">Modify lit_autoupdate so that it can handle errors in prelude.carbon (#2612)
+
+The intent here is that changes to prelude.carbon shouldn't break every test that expects some error from prelude.carbon; that would be too fragile. As a consequence, this effectively ignores the line number in prelude.carbon.
+
+This is a little complex because we don't know which line in the original source file is actually causing the error, just that there is an error. Also, the previous look-behind approach required a fixed-with prefix, whereas we want a little more than that in order to capture the filename for comparison.
+
+This would be hard to do with extra_check_replacement because the path to bazel.runfiles is complex to calculate. As a consequence, this is basically all new code.
+
+Co-authored-by: Richard Smith &lt;richard@metafoo.co.uk&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6037f9e</div>
+                                        <div class="message">Remove AlternativeValueBase, per review comments on #2605. (#2606)
+
+Also extend comment on `AlternativeSignature::static_type` as requested.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a3b342d</div>
+                                        <div class="message">Fix reference to update_checks.py (#2610)
+
+Scripts used to be named update_checks.py, now they're lit_autoupdate.py. This isn't dynamic due to execv; it felt odd to pass along the call.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#81532c8</div>
+                                        <div class="message">Fix mishandling of struct and tuple types in impl matching termination check. (#2609)
+
+Both cases need a label for each level of struct and tuple type appearing in the impl query, because we can have an unbounded number of such levels with the types otherwise being the same.
+
+Prior to this, both added testcases exhibit unbounded recursion.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0e41c56</div>
+                                        <div class="message">Implement the termination algorithm for impl selection described in #2458 (#2602)
+
+Detect when evaluating an impl recursively tries to evaluate the same impl for the same or a more complex set of parameters.
+
+In order to perform the check after we have tested that the type structure matches and before we check that constraints are recursively satisfied, argument deduction is extended to check structural matching properties earlier.
+
+This requires us to separate match failures into two kinds: hard failures that produce errors that should never be swallowed, and soft failures such as a missing impl that lead us to merely discard an impl as a candidate. A flag has been added to `ImplScope` and `ArgumentDeduction` to specify whether soft failures should produce an error message or not.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#59ff774</div>
+                                        <div class="message">Expect parentheses after an alternative only if they were present in its declaration (#2605)
+
+The design of choice types expects the declaration of an alternative to match the usage: if an alternative is declared as `None`, then it should be used as `None` not `None()`, and if it is declared as `None()` then it should be used as `None()` not `None`. Update explorer to match.
+
+Also clean up the handling of choice types and alternative values a little in general, by moving away from identifying choice types and alternatives as strings and towards identifying them symbolically.
+
+Closes #2422</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f7924aa</div>
+                                        <div class="message">Implement calls in the toolchain. (#2582)
+
+This adds tracking of call information plus basic type checking. It adds a builtin for the empty tuple, mainly so that I have the basis for a default function return type.
+
+As an aside, it also unifies printing within SemanticsIR, fixing a missing comma after callables.
+
+Co-authored-by: Richard Smith &lt;richard@metafoo.co.uk&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#22d7cd1</div>
+                                        <div class="message">Polish out support for reals and strings. (#2593)
+
+Reals were mostly handled, but this PR adds storage of them. It also switches a little towards the FloatingPointType semantic from TokenizedBuffer.
+
+While real literals like `1.0` were handled, the type literals were not. This just adds `f64`, similar to how I also only support `i32`.
+
+The String type literal wasn't used, so I've added support in lexer and parser. Per discussion with @zygoloid String might be renamed based on the newer type literal plan, but it's still String in explorer and the design, so this is just consistent.
+
+The builtin_types.carbon tests the three basic types that are there right now. The test is added to both parser and semantics so that it's clear what the state is in both stages.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#98041d7</div>
+                                        <div class="message">Explorer: error on bit-shift overflow (#2600)
+
+Return Integer overflow Runtime error for bit shift if The second operand is less than zero or bigger than or equal bit width of the first operand in this case (32 bit for int)
+
+Issue #2595</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b22e585</div>
+                                        <div class="message">Bump action versions. (#2591)
+
+I was looking at this due to some warnings about node 12 deprecation. This resolves some of it, where updates are available. We'll probably need to keep half an eye on this for https://github.com/hkusu/review-assign-action/issues/20 and https://github.com/z0al/dependent-issues/issues/535, which haven't been addressed yet.
+
+AFAICT no config versions are needed for these version bumps.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b76bc87</div>
+                                        <div class="message">Remove default constructor from IndexBase (#2598)
+
+There were some notes about default constructors being required in parse_tree.h, but they don't seem to be. Removing the default constructor forces the explicit `::Invalid` where there's no value immediately being assigned, which works fine for existing code. I think this actually reduces the chance of accidents more than the prior default-construct-as-invalid approach.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#aa307b1</div>
+                                        <div class="message">Fix CrossReference to use NodeId instead of NodeBlockId. (#2597)
+
+Probably a mistake from when this was referencing a node within a block instead of a node directly.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#69117bc</div>
+                                        <div class="message">Exempt leads questions from inactive labeling. (#2589)
+
+@chandlerc requested that leads questions not be marked inactive. These arise when there *isn't* a clear-cut answer, and so seem to make more sense to be effectively long-term.
+
+The \n\n\n is trying to get a blank line between paragraphs. Right now it gets a newline, but the paragraphs sort of blend. I might need more \n's, don't know but I'll keep an eye on messages. The examples that I could find don't have multiple paragraphs.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#266fa40</div>
+                                        <div class="message">Explorer: assert `Optional` not empty on `Get()` (#2587)
+
+Prevent from unwrapping an empty Optional</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">echavemann/grail</span>
                                     </div>
@@ -1409,28 +1577,6 @@ Northwestern '25.</div>
                                     <div class="commit">
                                         <div class="sha">#d7aaade</div>
                                         <div class="message">Update README.md</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">northwesternfintech/.github</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#62a6721</div>
-                                        <div class="message">Update action.yml
-
-oops</div>
                                     </div>
                                 </div>
                             </section>
@@ -1640,7 +1786,7 @@ oops</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 668k out of 402m repositories</span>
+                                    <span class="gh">ranked 662k out of 402m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 16 times</div>
                             </div>
@@ -1990,7 +2136,7 @@ oops</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 May 2023, 11:17:41 (timezone America/Chicago) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 19 May 2023, 12:12:20 (timezone America/Chicago) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
