@@ -192,7 +192,7 @@ I like fast code and coding fast.</div>
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    8.13m added, 5.59m removed
+                                    532k added, 399k removed
                                 </div>
                             </section>
                             <section>
@@ -240,14 +240,14 @@ I like fast code and coding fast.</div>
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="431.1742014370882" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="431.1742014370882" y="0" width="14.303418977834117" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="445.4776204149223" y="0" width="6.658514398965077" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="452.1361348138874" y="0" width="5.8053791376298305" height="8" fill="#fedf5b"/>
-                    <rect mask="url(#languages-bar)" x="457.9415139515172" y="0" width="0.6755831924840465" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="458.61709714400126" y="0" width="0.6554929924379834" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="459.2725901364392" y="0" width="0.5920774400168263" height="8" fill="#EB8CEB"/>
-                    <rect mask="url(#languages-bar)" x="459.86466757645604" y="0" width="0.13533242354396183" height="8" fill="#6e4a7e"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="431.1717699922359" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="431.1717699922359" y="0" width="14.303338319078728" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="445.4751083113146" y="0" width="6.658476850775725" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="452.1335851620903" y="0" width="5.805346400376134" height="8" fill="#fedf5b"/>
+                    <rect mask="url(#languages-bar)" x="457.9389315624665" y="0" width="0.6781733798956424" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="458.6171049423621" y="0" width="0.6554892960316194" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="459.27259423839376" y="0" width="0.5920741012186356" height="8" fill="#EB8CEB"/>
+                    <rect mask="url(#languages-bar)" x="459.86466833961236" y="0" width="0.1353316603876239" height="8" fill="#6e4a7e"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1758,7 +1758,7 @@ I like fast code and coding fast.</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 526k out of 116m users</span>
+                                    <span class="gh">ranked 527k out of 116m users</span>
                                 </div>
                                 <div class="text">Followed by 22 users</div>
                             </div>
@@ -2072,7 +2072,7 @@ I like fast code and coding fast.</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 May 2023, 10:14:29 (timezone America/Chicago) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 24 May 2023, 11:18:39 (timezone America/Chicago) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
