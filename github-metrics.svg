@@ -192,7 +192,7 @@ I like fast code and coding fast.</div>
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    15.7m added, 5.92m removed
+                                    892k added, 546k removed
                                 </div>
                             </section>
                             <section>
@@ -240,14 +240,14 @@ I like fast code and coding fast.</div>
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="431.1715117873136" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="431.1715117873136" y="0" width="14.303329753600615" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="445.4748415409142" y="0" width="6.6584728633822605" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="452.13331440429647" y="0" width="5.805342923875305" height="8" fill="#fedf5b"/>
-                    <rect mask="url(#languages-bar)" x="457.93865732817176" y="0" width="0.6784484423297057" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="458.61710577050144" y="0" width="0.6554889034953392" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="459.27259467399676" y="0" width="0.5920737466582076" height="8" fill="#EB8CEB"/>
-                    <rect mask="url(#languages-bar)" x="459.864668420655" y="0" width="0.13533157934497853" height="8" fill="#6e4a7e"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="431.1722435614831" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="431.1722435614831" y="0" width="14.302966681934324" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="445.47521024341745" y="0" width="6.658303846595323" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="452.1335140900128" y="0" width="5.805195562696819" height="8" fill="#fedf5b"/>
+                    <rect mask="url(#languages-bar)" x="457.93870965270963" y="0" width="0.6784312207868418" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="458.61714087349645" y="0" width="0.655472264750898" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="459.2726131382474" y="0" width="0.5920587176261242" height="8" fill="#EB8CEB"/>
+                    <rect mask="url(#languages-bar)" x="459.8646718558735" y="0" width="0.13532814412654612" height="8" fill="#6e4a7e"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1854,7 +1854,7 @@ I like fast code and coding fast.</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1.4852840520191641 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1.6974674880218994 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -1913,7 +1913,7 @@ I like fast code and coding fast.</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.95m out of 404m repositories</span>
+                                    <span class="gh">ranked 1.98m out of 404m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 8 stars</div>
                             </div>
@@ -2045,7 +2045,7 @@ I like fast code and coding fast.</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 May 2023, 09:12:34 (timezone America/Chicago) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 26 May 2023, 10:13:36 (timezone America/Chicago) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
