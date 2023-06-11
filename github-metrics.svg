@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2673" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2389" class="">
     <defs>
         <style/>
     </defs>
@@ -192,7 +192,7 @@ I like fast code and coding fast.</div>
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    8.71m added, 5.82m removed
+                                    1.34m added, 619k removed
                                 </div>
                             </section>
                             <section>
@@ -240,14 +240,14 @@ I like fast code and coding fast.</div>
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="431.84647159293854" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="431.84647159293854" y="0" width="13.632992829997363" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="445.47946442293585" y="0" width="6.6556489395857525" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="452.1351133625216" y="0" width="5.802880820872711" height="8" fill="#fedf5b"/>
-                    <rect mask="url(#languages-bar)" x="457.9379941833943" y="0" width="0.6796980861442197" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="458.61769226953857" y="0" width="0.6552109042076787" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="459.2729031737463" y="0" width="0.591822642361955" height="8" fill="#EB8CEB"/>
-                    <rect mask="url(#languages-bar)" x="459.8647258161082" y="0" width="0.13527418389182097" height="8" fill="#6e4a7e"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="431.8465247248381" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="431.8465247248381" y="0" width="13.632967101541718" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="445.47949182637984" y="0" width="6.65563637891249" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="452.1351282052924" y="0" width="5.802869869560431" height="8" fill="#fedf5b"/>
+                    <rect mask="url(#languages-bar)" x="457.93799807485277" y="0" width="0.6796968034044516" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="458.6176948782573" y="0" width="0.6552096676806082" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="459.2729045459379" y="0" width="0.591821525462475" height="8" fill="#EB8CEB"/>
+                    <rect mask="url(#languages-bar)" x="459.86472607140036" y="0" width="0.1352739285996864" height="8" fill="#6e4a7e"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -306,7 +306,7 @@ I like fast code and coding fast.</div>
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 19 commits)</small>
+                    <small class="h-details">(computed from last 22 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -1370,6 +1370,66 @@ I like fast code and coding fast.</div>
                                 <div class="details">
                                     <div>on branch <span class="code">stable</span></div>
                                     <div class="commit">
+                                        <div class="sha">#612b753</div>
+                                        <div class="message">Ignore cache</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">echavemann/grail</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">stable</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#aba2487</div>
+                                        <div class="message">Test Utils</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">echavemann/grail</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">stable</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#a6c6e11</div>
+                                        <div class="message">Pytest support</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">echavemann/grail</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">stable</span></div>
+                                    <div class="commit">
                                         <div class="sha">#dc4c3d3</div>
                                         <div class="message">daily</div>
                                     </div>
@@ -1548,218 +1608,6 @@ Fixes #2795</div>
 Allow array size deduction from tuples and arrays on array declaration
 
 Closes #1590</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 38 commits in
-                                        <span class="repo">echavemann/carbon-lang</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">trunk</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#4152cf7</div>
-                                        <div class="message">Add loads for data. (#2860)
-
-Start inserting loads when getting a value. This is done conditionally, but in theory we could start tracking nodes which need loading differently if the `isa` is considered cumbersome.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a7939ab</div>
-                                        <div class="message">Fix test_arg for file_test.subset (#2863)
-
-I believe this broke when I was changing path handling.
-
-Bad:
-
-```
-  bazel test //testing/file_test:file_test_base_test.subset --test_arg=/usr/local/...elided.../execroot/carbon/bazel-out/k8-fastbuild/bin/testing/file_test/file_test_base_test.runfiles/carbon/testing/file_test/example.carbon
-```
-
-Good:
-
-```
-  bazel test //testing/file_test:file_test_base_test.subset --test_arg=testing/file_test/example.carbon
-```</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#db56290</div>
-                                        <div class="message">Drop "Lowered" from various LoweringContext APIs. (#2859)
-
-As I've worked on this more, it's just felt verbosely redundant -- lowered should be the default assumption, needing no further explanation. This does mean there's `context.GetType()` and `context.semantics_ir().GetType()`, but I feel like that's still reasonably clear on reading.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dce67e4</div>
-                                        <div class="message">Rename semantics to semantics_ir (#2858)
-
-This is a rename of a commonly used accessor. I tend to prefer shorter names, but it's semantics_ir in LoweringContext, and it feels odder to shorten to semantics there than to lengthen to semantics_ir here. I already have builtins_ir around here, too. I think it's helpful to use consistent names for semantics_ir since they're dealing with essentially the same thing.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#81e5388</div>
-                                        <div class="message">Fix crash on use of uninitialized array element, and improve unformed checking (#2862)
-
-Per #257, we should be treating unformedness as all-or-nothing, rather than being a per-field or per-array-element property. Previously we initialized an array with no explicit initializer as containing a sequence of uninitialized values, but that led to crashes when attempting to access those values, as the checks for reading an uninitialized value only expected values to be uninitialized at the top level.
-
-Also, we had existing tests that attempt to store to an element of an uninitialized array. We now detect that and treat it as UB during evaluation, rather than crashing due to trying to perform field access into an uninitialized value.
-
-Finally, many of these problems can be detected statically, but the resolve_unformed pass wasn't catching them because it missed a few expression and declaration forms. Support for those cases has been added too. This causes the pass to recurse more often, and in particular our existing recursion test started hitting a stack overflow after this, so resolve_unformed now uses `RunWithExtraStack`. In passing, remove the need to explicitly tell `RunWithExtraStack` the return type, and infer it as the return type of the callable instead.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2e4beaf</div>
-                                        <div class="message">Canonicalize struct types. (#2855)
-
-This adds canonicalization of struct types based on their type fields. It obsoletes the current CanImplicitAsStruct because the type ids should now be identical when they're structurally identical; there's only a reason to implicit CanImplicitAsStruct to detect _compatible_ conversions.
-
-The type fields themselves aren't canonicalized because it would need to be done during the first parse, and could yield name conflicts being associated with the wrong location. i.e.:
-
-```
-var x: {a: i32, a: i32};
-var y: {a: i32, b: i32, a: i32};
-```
-
-This should yield two separate name conflict diagnostics pointing at the type fields for each respective line, but if struct type fields were canonicalized then both would point at the first `a: i32` field definition. This isn't expected to be an issue for types because I'm trying to print those, but we may also end up with a "first defined at" situation in some cases (still, less confusing because the type should match). Regardless, I think individual fields gets much more awkward.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1497e13</div>
-                                        <div class="message">Switch types to a SemanticsTypeId. (#2854)
-
-This switches types to using SemanticsTypeId instead of SemanticsNodeId, and lowering pre-builds its list of types. The empty tuple type is special-cased because we don't want to emit it unless it's in-use, but as the implicit return for functions, it's frequently used. Callables use invalid to indicate the implicit return, and that seems undesirable to change due to the size increase.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a2156f5</div>
-                                        <div class="message">Fixed linting errors in resolve_names.cpp (#2856)
-
-Tried to get rid of `Unchecked access to optional value` clang-tidy warnings in `resolve_names.cpp`.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#709412c</div>
-                                        <div class="message">Remove the builtin empty tuple value (not type). (#2850)
-
-We do use the empty tuple type for function returns, so I don't want to get rid of it, but the value is unused. With this change, builtins are all types. Long-term the empty tuple value should have a representation similar to structs; just a tuple value that's empty, not a built-in.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#76151d1</div>
-                                        <div class="message">Stop special-casing empty structs. (#2849)
-
-This removes special-casing of empty structs, handling them as just a regular value instead of a builtin. Note the `{} as Type` is still special-cased.
-
-In lowering, removes the test of calling a function using `{}` because it's missing the proper load/store. This setup notices that error whereas the prior worked due to said special-casing. Fixing this will need to be done as part of generally adding loads for variable uses.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1d56e16</div>
-                                        <div class="message">Start refactoring type handling to track which types are in-use. (#2848)
-
-This is the first step to refactoring types into a SemanticsTypeId. This only tracks what's in-use, but as a consequence starts funneling type information through in ways similar to how I'd want it to do SemanticsTypeId.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#527f314</div>
-                                        <div class="message">Fixed typo in comments of numeric literal (#2847)
-
-As I went through and analyzed the Carbon source code, I saw that there is typo in the comments, which may need to be modified to avoid misleading other people.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ce1a635</div>
-                                        <div class="message">Make stack detection more reliable. (#2845)
-
-The old version wasn't compatible with ASan's instrumentation. Instead,
-use a builtin when available, and even in the fallback disable inlining
-and sanitizing as they can't do anything useful in this routine.
-
-This fixes a confusing internal ASan error seen by some folks since the
-stack detection was added.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bd4e220</div>
-                                        <div class="message">Handle semantic name lookup for function parameters. (#2839)
-
-I'm adding a separate function for this instead of adding a bool to AddToNameLookup because this way I don't need to pass in a parse node.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#98105a2</div>
-                                        <div class="message">Add lowering for empty struct values. (#2838)
-
-I'm not sure this is really the best approach, as noted by the TODO. While it does reduce the generated IR in many cases (especially if we start eliding `()` in favor of void), it increases the amount of code in a common function which may have higher impact on performance. I was leaning towards the idea that review would favor the former for now, lacking benchmarking supporting adding unused content to the IR.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ab1535c</div>
-                                        <div class="message">Add lowering for function calls (#2837)
-
-This handles the basics of calling a function with arguments, and assigning results.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c1722d9</div>
-                                        <div class="message">fixed a linting error in action.cpp (#2844)
-
-There was a warning "Unchecked access to optional value" in this piece of code inside `action.cpp`
-```cpp
-  if (this-&gt;scope().has_value()) {
-    out &lt;&lt; " " &lt;&lt; *this-&gt;scope();a
-  }
-```
-Fixed it by accessing `scope_` directly rather than using `this-&gt;scope()`.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#38538ff</div>
-                                        <div class="message">Start handling stack depth issues in explorer (#2799)
-
-Adds stack space handling similar to Clang's approach, but with more support for forwarding return values. Refactors ParseAndExecute for better sharing, and for centralization of the InitStackSpace handling.
-
-Fixes #2795</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#60e3d72</div>
-                                        <div class="message">Fix minor $1 use in parser.ypp (#2843)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#40b3518</div>
-                                        <div class="message">Add array size deduction from tuple(fix#1590) (#2825)
-
-Allow array size deduction from tuples and arrays on array declaration
-
-Closes #1590</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">northwesternfintech/Desk-Alpha</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#5c1d427</div>
-                                        <div class="message">Update README.md</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Deleted
-                      branch
-                                        <span class="code">daniel2</span>
-                                        in
-                                        <span class="repo">northwesternfintech/Desk-Alpha</span>
                                     </div>
                                 </div>
                             </section>
@@ -2234,7 +2082,7 @@ Closes #1590</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.99m out of 407m repositories</span>
+                                    <span class="gh">ranked 1.98m out of 407m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 8 stars</div>
                             </div>
@@ -2366,7 +2214,7 @@ Closes #1590</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Jun 2023, 10:12:47 (timezone America/Chicago) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 11 Jun 2023, 11:16:27 (timezone America/Chicago) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
