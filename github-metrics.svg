@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2053" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2093" class="">
     <defs>
         <style/>
     </defs>
@@ -84,7 +84,7 @@ I like fast code and coding fast.</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1125 Commits
+                            1126 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -109,7 +109,7 @@ I like fast code and coding fast.</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            48 issue comments
+                            50 issue comments
                         </div>
                     </section>
                     <section>
@@ -192,7 +192,7 @@ I like fast code and coding fast.</div>
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    1.39m added, 619k removed
+                                    628k added, 418k removed
                                 </div>
                             </section>
                             <section>
@@ -240,14 +240,14 @@ I like fast code and coding fast.</div>
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="431.7482460530272" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="431.7482460530272" y="0" width="13.722627814870691" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="445.47087386789786" y="0" width="6.652942131675291" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="452.1238159995732" y="0" width="5.80052082805278" height="8" fill="#fedf5b"/>
-                    <rect mask="url(#languages-bar)" x="457.92433682762595" y="0" width="0.6939176172216309" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="458.6182544448476" y="0" width="0.6549444343150163" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="459.2731988791626" y="0" width="0.5915819520514419" height="8" fill="#EB8CEB"/>
-                    <rect mask="url(#languages-bar)" x="459.86478083121403" y="0" width="0.13521916878595172" height="8" fill="#6e4a7e"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="431.7484388083693" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="431.7484388083693" y="0" width="13.722534188477654" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="445.47097299684697" y="0" width="6.652896740152379" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="452.1238697369994" y="0" width="5.800481252408072" height="8" fill="#fedf5b"/>
+                    <rect mask="url(#languages-bar)" x="457.92435098940746" y="0" width="0.6939128827783128" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="458.61826387218576" y="0" width="0.6549399657769306" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="459.2732038379627" y="0" width="0.591577915821275" height="8" fill="#EB8CEB"/>
+                    <rect mask="url(#languages-bar)" x="459.864781753784" y="0" width="0.13521824621607562" height="8" fill="#6e4a7e"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -306,14 +306,14 @@ I like fast code and coding fast.</div>
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 65 commits)</small>
+                    <small class="h-details">(computed from last 66 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
                         <li>Has approximately 46.3 characters per line of code written</li>
                         <li>Mostly pushes code around 11:00</li>
-                        <li>Mostly active on Wednesday</li>
+                        <li>Mostly active on Friday</li>
                     </ul>
                 </div>
             </section>
@@ -1359,6 +1359,60 @@ I like fast code and coding fast.</div>
                                 </div>
                                 <div class="details">
                                     <div>opened by echavemann in <span class="repo">echavemann/grail</span></div>
+                                    <div class="comment">@jiale0402  requesting a psudeocode review of https://github.com/echavemann/grail/blob/stable/src/feature_extraction/fischgott.py</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#11 Wrangler Rebuild</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by echavemann in <span class="repo">echavemann/grail</span></div>
+                                    <div class="comment">Same story as #4 .</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">echavemann/grail</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">stable</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#d620dbc</div>
+                                        <div class="message">basic wrangler framework</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#10 Fischer Rebuild</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by echavemann in <span class="repo">echavemann/grail</span></div>
                                     <div class="comment">Psuedocode done. Blocked on #8 .</div>
                                 </div>
                             </section>
@@ -1377,60 +1431,6 @@ I like fast code and coding fast.</div>
                                 </div>
                                 <div class="details">
                                     <div>opened  in <span class="repo">echavemann/grail</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">echavemann/grail</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">stable</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#3ad5df2</div>
-                                        <div class="message">fischgott psuedocode.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
-                                        <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Closed
-                                        <span class="issue">#1 Planning/API</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by egelja in <span class="repo">northwesternfintech/NUTC24</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#1 Planning/API</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by egelja in <span class="repo">northwesternfintech/NUTC24</span></div>
-                                    <div class="comment">is it good? absolutely not. is it passable? yeah.</div>
                                 </div>
                             </section>
                         </div>
@@ -1639,7 +1639,7 @@ I like fast code and coding fast.</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 674k out of 410m repositories</span>
+                                    <span class="gh">ranked 645k out of 410m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 16 times</div>
                             </div>
@@ -1868,7 +1868,7 @@ I like fast code and coding fast.</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.99m out of 410m repositories</span>
+                                    <span class="gh">ranked 2m out of 410m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 8 stars</div>
                             </div>
@@ -2036,7 +2036,7 @@ I like fast code and coding fast.</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Jun 2023, 10:16:11 (timezone America/Chicago) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 23 Jun 2023, 11:20:07 (timezone America/Chicago) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
